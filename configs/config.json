@@ -1,0 +1,12 @@
+{
+  "VIDEO_PATH_PREDICTION": "data/LPD_prediction.mp4",
+  "VIDEO_PATH_TRAINING": "data/LPD_training_.mp4",
+  "VIDEO_PATH_OUTPUT": "data/out.mp4",
+  "IMAGE_TRAINING_PATH": "data/images_training",
+
+  "CSV_PATH_MAIN": "data/test.csv",
+  "CSV_PATHـINTERPOLATED": "data/test_interpolated.csv",
+
+  "ALPR_MODEL": "models/best.pt",
+  "YOLO_MODEL": "models/yolov8n.pt"
+}

@@ -1,0 +1,6 @@
+train: /content/datasets/freedomtech/images/training
+val: /content/datasets/freedomtech/images/validation
+#number of classes
+nc: 1
+#class names
+names: ['numberplate']
